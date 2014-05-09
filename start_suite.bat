@@ -1,0 +1,1 @@
+java -jar D:\tools\selenium-server-standalone-2.41.0.jar -HtmlSuite *firefox http://metallocherepica.biz/ D:\github\Mydocs\loginout.html D:\github\Mydocs\result.html
