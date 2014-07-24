@@ -1,0 +1,62 @@
+Навыки в LinkedIn
+
+TestAutomation
+Testing
+
+
+Selenium
+WebDriver
+Sikuli
+Selenide
+TestNG
+JUnit
+
+Jira
+Jmeter
+InteliJ IDEA
+Java
+
+UNIX
+XML
+LINUX
+Microsoft SQL server
+Windows
+SQL
+Git
+TortoiseSVN
+Maven
+
+Jenkins
+TestPlaning
+Test Cases
+Manual Testing
+Perfomance Testing
+Regression Testing
+Usability Testing
+Black Box Testing
+Functional Testing
+System Testing
+Exploratory Testing
+Web Testing
+User Acceptance Testing
+Integration Testing
+Sanity Testing
+Unit Testing
+
+Scrum
+Agile Methodologies
+Test Driven Development
+Behave Driven Development
+TestStrategy
+Test Estimation
+OOP
+
+
+
+
+
+JavaScript
+HTML
+CSS
+jQuery
+Continuous Integration
